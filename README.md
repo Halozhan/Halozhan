@@ -14,7 +14,7 @@ and am studying full-stack development. I'm currently working on a Flutter proje
 ### 2024
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AISWProject&repo=your_ear_fits&theme=dracula)](https://github.com/AISWProject/your_ear_fits)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AISWProject&repo=danawa-crawler-python&theme=dracula)](https://github.com/AISWProject/danawa-crawler-python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=calabiyau_dns_fixer&theme=dracula)](https://github.com/Halozhan/calabiyau_dns_fixer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=calabiyau-server-node-switcher&theme=dracula)](https://github.com/Halozhan/calabiyau-server-node-switcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arrangement-of-Jinn-Dolsoe&repo=teamProject_frontend&theme=dracula)](https://github.com/Arrangement-of-Jinn-Dolsoe/teamProject_frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SafeWalkEscort&repo=SafeWalkEscort&theme=dracula)](https://github.com/SafeWalkEscort/SafeWalkEscort)
 
