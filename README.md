@@ -17,6 +17,7 @@ and am studying full-stack development. I'm currently working on a Flutter proje
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=calabiyau_dns_fixer&theme=dracula)](https://github.com/Halozhan/calabiyau_dns_fixer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=StreamDeckOsuReplayLoader&theme=dracula)](https://github.com/Halozhan/StreamDeckOsuReplayLoader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arrangement-of-Jinn-Dolsoe&repo=teamProject_frontend&theme=dracula)](https://github.com/Arrangement-of-Jinn-Dolsoe/teamProject_frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SafeWalkEscort&repo=SafeWalkEscort&theme=dracula)](https://github.com/SafeWalkEscort/SafeWalkEscort)
 
 ### 2023
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=BlueJ-Greenfoot&theme=dracula)](https://github.com/Halozhan/BlueJ-Greenfoot)
