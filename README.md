@@ -15,7 +15,6 @@ and am studying full-stack development. I'm currently working on a Flutter proje
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AISWProject&repo=your_ear_fits&theme=dracula)](https://github.com/AISWProject/your_ear_fits)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AISWProject&repo=danawa-crawler-python&theme=dracula)](https://github.com/AISWProject/danawa-crawler-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=calabiyau_dns_fixer&theme=dracula)](https://github.com/Halozhan/calabiyau_dns_fixer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=StreamDeckOsuReplayLoader&theme=dracula)](https://github.com/Halozhan/StreamDeckOsuReplayLoader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arrangement-of-Jinn-Dolsoe&repo=teamProject_frontend&theme=dracula)](https://github.com/Arrangement-of-Jinn-Dolsoe/teamProject_frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SafeWalkEscort&repo=SafeWalkEscort&theme=dracula)](https://github.com/SafeWalkEscort/SafeWalkEscort)
 
@@ -25,4 +24,5 @@ and am studying full-stack development. I'm currently working on a Flutter proje
 
 ### 2022
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=UmamusumeKR-Resemara&theme=dracula)](https://github.com/Halozhan/UmamusumeKR-Resemara)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=StreamDeckOsuReplayLoader&theme=dracula)](https://github.com/Halozhan/StreamDeckOsuReplayLoader)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Halozhan&repo=osu-local-scores-rebuilder&theme=dracula)](https://github.com/Halozhan/osu-local-scores-rebuilder)
