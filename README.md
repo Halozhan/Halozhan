@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Juwon
-I'm a student studying computer science and artificial intelligence at the University of Sunmoon. I'm interested in third-party utility development for games.
-and am studying full-stack development. I'm currently working on a Flutter project.
+I'm a student studying computer science and artificial intelligence at the University of Sunmoon. I am interested in deployment automation, so fascinated by Docker. addicted to Docker :P
+I like to create programs to solve inconvenient problems while playing games.
 
 # My GitHub Stats
 [![Halozhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halozhan&icon_color=79FF97&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
